@@ -1,5 +1,5 @@
 # REP
 
-## editing the file
+## Editing the file
 
-Its a markdown file in the repositor.
+Its a markdown file in the Repository.
